@@ -1,11 +1,11 @@
-Shift Your Buisness
+# Shift Your Buisness
 
 Адаптивный лендинг для поиска сотрудников, улучшения бизнеса.
 
-Технологии
+## Технологии
 - HTML, CSS (Flexbox, Grid, медиа-запросы)
 - БЭМ-нейминг
 - GitHub Pages
   
-Ссылка:
+## Ссылка:
 https://ramzanzorobaev6-dev.github.io/Shift-your-buisness/
